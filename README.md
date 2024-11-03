@@ -6,4 +6,8 @@ Team Members:<br>
 4.Peddisetty Teja Vinay(22bcs084)<br>
 
 Overview<br>
-This project involves a comprehensive penetration test of Zseano’s Playground, focusing on identifying and exploiting common vulnerabilities in web applications. The testing covers various security weaknesses, including XSS, IDOR, credential leaks, and open URL redirects.
+Discover and document security vulnerabilities in the target web application.<br>
+Demonstrate how these vulnerabilities could be exploited by attackers.<br>
+Provide remediation recommendations for each discovered vulnerability.<br>
+Improve security testing skills by hands-on practice on a real-world application.<br>
+
