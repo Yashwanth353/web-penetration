@@ -19,3 +19,17 @@ Project Features:
 3 Credential Leaks: Discovered ways to access sensitive credential information through insecure API endpoints.<br>
 4 Information Leaks: Found sensitive tokens and other information that could assist attackers in gaining unauthorized access.<br>
 
+Security Measures:
+
+To mitigate the vulnerabilities identified in Zseano’s Playground, we recommend the following security measures:
+
+1 Input Validation and Output Encoding:<br>
+
+Implement server-side input validation for all user inputs to prevent malicious payloads.<br>
+Use output encoding techniques (e.g., HTML encoding) to prevent script execution in the browser.<br>
+
+2 Access Control and Authentication:<br>
+
+Apply role-based access control to restrict access to sensitive resources.<br>
+Use session-based access tokens to ensure users can only access their own data, mitigating IDOR vulnerabilities.<br>
+
