@@ -15,9 +15,7 @@
 
 2 Demonstrate how these vulnerabilities could be exploited by attackers.<br>
 
-3 Provide remediation recommendations for each discovered vulnerability.<br>
-
-4 Improve security testing skills by hands-on practice on a real-world application.<br>
+3 Improve security testing skills by hands-on practice on a real-world application.<br>
 
 ## Project Features:
 
