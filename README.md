@@ -6,8 +6,9 @@ Team Members:<br>
 4.Peddisetty Teja Vinay(22bcs084)<br>
 
 Overview<br>
-Discover and document security vulnerabilities in the target web application.<br>
-Demonstrate how these vulnerabilities could be exploited by attackers.<br>
-Provide remediation recommendations for each discovered vulnerability.<br>
-Improve security testing skills by hands-on practice on a real-world application.<br>
+
+1 Discover and document security vulnerabilities in the target web application.<br>
+2 Demonstrate how these vulnerabilities could be exploited by attackers.<br>
+3 Provide remediation recommendations for each discovered vulnerability.<br>
+4 Improve security testing skills by hands-on practice on a real-world application.<br>
 
