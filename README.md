@@ -35,9 +35,9 @@ To mitigate the vulnerabilities identified in Zseano’s Playground, we recommen
 
 1 Input Validation and Output Encoding:<br>
 
-   Implement server-side input validation for all user inputs to prevent malicious payloads.<br>
+  <ol> Implement server-side input validation for all user inputs to prevent malicious payloads.<br>
 
-   Use output encoding techniques (e.g., HTML encoding) to prevent script execution in the browser.<br>
+   Use output encoding techniques (e.g., HTML encoding) to prevent script execution in the browser.<br></ol?
 
 2 Access Control and Authentication:<br>
 
