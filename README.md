@@ -5,6 +5,5 @@ Team Members:<br>
 3.Nelli Vivek Reddy(22bcs076)  
 4.Peddisetty Teja Vinay(22bcs084)<br>
 
-Objectives<br>
-1 To Find Loop Holes in the website.<br>
-2 
+Overview
+This project involves a comprehensive penetration test of Zseano’s Playground, focusing on identifying and exploiting common vulnerabilities in web applications. The testing covers various security weaknesses, including XSS, IDOR, credential leaks, and open URL redirects.
