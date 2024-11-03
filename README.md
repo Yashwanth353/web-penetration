@@ -7,7 +7,7 @@
 
 3.Nelli Vivek Reddy(22bcs076)<br>
 
-4.Peddisetty Teja Vinay(22bcs084)<br>
+4.Pedisetti Teja Vinay(22bcs084)<br>
 
 ## Overview<br>
 
